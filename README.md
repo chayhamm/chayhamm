@@ -7,10 +7,13 @@
 ## About me
 
 I'm a British developer who started Coding at the `20th September 2023`.
+
 My goal with coding is to become a Frontend developer in `HTML, CSS, JS, SQL`
 
 ## Projects
 
-I have made a lot of Discord Bots in **Python** for personal use or for some other people. 
+I have made a lot of Discord Bots in **Python** for personal use or for some other people.
+
 I learned **C#** in `February 11th 2024` to create plugins for the Game **Rust**.
+
 I learned **JavaScript** to help with my end goal of becoming a frontend developer.
