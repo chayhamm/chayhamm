@@ -15,6 +15,8 @@ I'm a British developer who started Coding at the `20th September 2023`.
 
 My goal with coding is to become a Frontend developer in `HTML, CSS, JS, SQL`
 
+I love to listen to house party songs
+
 ## Projects
 
 I have made a lot of Discord Bots in **Python** for personal use or for some other people.
