@@ -4,6 +4,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
+## Socials
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rtcrfqfnwm5ysu52yvw2bikpry&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31rtcrfqfnwm5ysu52yvw2bikpry)
+
+
 ## About me
 
 I'm a British developer who started Coding at the `20th September 2023`.
