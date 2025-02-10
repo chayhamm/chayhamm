@@ -1,8 +1,12 @@
 ## Languages I Know
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![python logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=ADD8E6)
+![c# logo](https://readme-components.vercel.app/api?component=logo&logo=cSharp&fill=A020F0)
+
+## Tools I know/use
+
+![vscode logo](https://readme-components.vercel.app/api?component=logo&logo=VisualStudioCode&fill=191970)
+![github logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=2b3137)
 
 ## Spotify
 
