@@ -8,9 +8,14 @@
 ![vscode logo](https://readme-components.vercel.app/api?component=logo&logo=VisualStudioCode&fill=191970)
 ![github logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=2b3137)
 
+# Libraries I use
+
+![discord.py logo](https://readme-components.vercel.app/api?component=logo&logo=discord&fill=2b3137)
+
+
 ## Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rtcrfqfnwm5ysu52yvw2bikpry&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rtcrfqfnwm5ysu52yvw2bikpry&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://discord.gg/uc2UPUNkJm)
 
 ## About me
 
@@ -28,3 +33,14 @@ As of now, I have not made many projects.
 I have made some Discord-Bots (using *Discord.py*) for some graphic designers and VFX workers.
 
 I have made some Rust-Plugins (for the game) just for testing (using C#)
+
+
+# ![button](https://readme-components.vercel.app/api?component=button&text=ContactMe&fill=ADD8E6&textfill=black)
+
+If you wish to contact me, my Discord user is: `chayh.`
+
+My discord Server is: `https://discord.gg/debugging` or `https://discord.gg/uc2UPUNkJm`
+
+My company email is: `EndureStudios.co.uk@gmail.com`
+
+My personal email is: `chayhammond@gmail.com`
