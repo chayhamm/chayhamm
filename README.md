@@ -1,18 +1,16 @@
-## Languages I Know
+## About me
 
-![python logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=ADD8E6)
-![c# logo](https://readme-components.vercel.app/api?component=logo&logo=cSharp&fill=A020F0)
+• I''ve worked on many Game Servers - Where I had to regularly engage with the community.
+    ∙ Doing this has helped me develop my social skills.
 
-## Tools I know/use
-
-![vscode logo](https://readme-components.vercel.app/api?component=logo&logo=VisualStudioCode&fill=191970)
-![github logo](https://readme-components.vercel.app/api?component=logo&logo=github&fill=2b3137)
-
-# Libraries I use
-
-![discord.py logo](https://readme-components.vercel.app/api?component=logo&logo=discord&fill=2b3137)
+• Whilst working on the Game Servers, I had to constantly put my programming skills to use.
+    ∙ This has helped me reach my highest potential within programming.
 
 
-## Spotify
+However, I primarily focus on helping & supporting others within the online community and within the real world community; and I feel ready to put my social helpfulness to use.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rtcrfqfnwm5ysu52yvw2bikpry&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://discord.gg/uc2UPUNkJm)
+[![py progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=python&value=85)](https://github.com/harish-sethuraman/readme-components)
+[![C# progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSharp&value=70)](https://github.com/harish-sethuraman/readme-components)
+[![Js progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript&value=55)](https://github.com/harish-sethuraman/readme-components)
+[![Kotlin progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=Kotlin&value=40)](https://github.com/harish-sethuraman/readme-components)
+[![HTML progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=25)](https://github.com/harish-sethuraman/readme-components)
