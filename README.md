@@ -1,14 +1,22 @@
 ## About me
 
-• I''ve worked on many Game Servers - Where I had to regularly engage with the community.
-    ∙ Doing this has helped me develop my social skills.
+I am a freelance developer who is currently focusing on building up my skills for the future. Right now, I am focused on JavaScript; and app Development - In React (JS Framework).
+The programming languages I know are - C#, Python, JavaScript, Kotlin, HTML; I focus on more, more than others.
 
-• Whilst working on the Game Servers, I had to constantly put my programming skills to use.
-    ∙ This has helped me reach my highest potential within programming.
+I am mostly self taught, however I did do Computer Science at GCSE level in Secondary School - which only taught me Python basics; and I went on to develop my Python skills by myself - using libraries like Discord.py and Pycord.
+
+## Past projects
+
+**Endure Rust 10x**:
+
+    I have developed and ran a 10x Rust Server - which went nowhere; but, in doing so, I developed my C# and Python skills - using Oxide for C# and Discord.py for Python.
 
 
-However, I primarily focus on helping & supporting others within the online community and within the real world community; and I feel ready to put my social helpfulness to use.
+**Relaunch Studios**:
 
+    A freelance app development company which is still in development; this has made me learn Kotlin and JavaScript.
+ 
+## My languages
 [![py progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=python&value=85)](https://github.com/harish-sethuraman/readme-components)
 [![C# progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=CSharp&value=70)](https://github.com/harish-sethuraman/readme-components)
 [![Js progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=JavaScript&value=55)](https://github.com/harish-sethuraman/readme-components)
